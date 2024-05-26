@@ -9,7 +9,7 @@ O projeto utiliza de dois dispositivos NodeMCU, simulados pela plataforma Wokwi,
 
 ### Fotos do projeto
 Dispositivos NodeMCU com sensores e atuadores
-<img width="440" alt="image" src="https://github.com/citricgio/N2-IoT/assets/111765178/b484057a-e97f-4b77-8688-c6d1c8954a54">
+<img width="1461" alt="Captura de Tela 2024-05-25 às 17 03 52" src="https://github.com/citricgio/N2-IoT/assets/111765178/c1b33a27-037b-41ff-9659-8a1f835e03e8">
 
 Configuração no Node-Red
 <img width="1381" alt="image" src="https://github.com/citricgio/N2-IoT/assets/111765178/353c5e54-d88f-4b15-9b91-c1c2e280a4af">
