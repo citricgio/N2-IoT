@@ -1,0 +1,22 @@
+[
+    {
+        "id": "ea496d36f2fe3130",
+        "type": "function",
+        "z": "fc9117d7df16a19f",
+        "name": "verifica umidade",
+        "func": "var Umidade = parseFloat(msg.payload);\n\nif (Umidade > 18) {\n    msg.payload = \"Umidade alta! (\" + msg.payload + \") Pode causar danos à soja\";\n    return msg;\n\n} else if (Umidade < 13) {\n    msg.payload = \"Umidade baixa! (\" + msg.payload + \") Isso pode causar perda de grãos\";\n    return msg;\n    \n} \nelse {\n    msg.payload = \"Umidade ideal! (\" + msg.payload + \")\";\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 520,
+        "wires": [
+            [
+                "3ea22359152ba49d"
+            ]
+        ]
+    }
+]
