@@ -14,4 +14,7 @@ Dispositivos NodeMCU com sensores e atuadores
 Configuração no Node-Red
 <img width="1381" alt="image" src="https://github.com/citricgio/N2-IoT/assets/111765178/353c5e54-d88f-4b15-9b91-c1c2e280a4af">
 
+Dashboards no Grafana
+<img width="1313" alt="Captura de Tela 2024-05-28 às 11 06 33" src="https://github.com/citricgio/N2-IoT/assets/111765178/ce62b6cf-5082-4aa4-b910-35577278ef30">
+
 ## Link do Vídeo
