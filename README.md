@@ -7,6 +7,8 @@ O sistema promove o monitoramento de regiões de cultivo de soja de maneira auto
 
 O projeto utiliza de dois dispositivos NodeMCU, simulados pela plataforma Wokwi, acoplados de um sensor de temperatura e outro de umidade, e dois relés como atuadores. Permite armazenar os dados no InfluxDB e prover a visualização de dashboards utilizando a ferramenta Grafana.
 
+## Link do Vídeo
+
 ### Fotos do projeto
 Dispositivos NodeMCU com sensores e atuadores
 <img width="1461" alt="Captura de Tela 2024-05-25 às 17 03 52" src="https://github.com/citricgio/N2-IoT/assets/111765178/c1b33a27-037b-41ff-9659-8a1f835e03e8">
@@ -17,4 +19,3 @@ Configuração no Node-Red
 Dashboards no Grafana
 <img width="1313" alt="Captura de Tela 2024-05-28 às 11 06 33" src="https://github.com/citricgio/N2-IoT/assets/111765178/ce62b6cf-5082-4aa4-b910-35577278ef30">
 
-## Link do Vídeo
